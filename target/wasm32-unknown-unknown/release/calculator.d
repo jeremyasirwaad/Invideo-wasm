@@ -1,0 +1,1 @@
+/Users/jeremyasirwaad/development/invideo_interview/wasm/calculator/target/wasm32-unknown-unknown/release/calculator.wasm: /Users/jeremyasirwaad/development/invideo_interview/wasm/calculator/src/lib.rs
